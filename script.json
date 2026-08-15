@@ -1,0 +1,36 @@
+{
+  "author": null,
+  "contributors": [],
+  "description": null,
+  "entry": "index.tsx",
+  "localizedDescriptions": {
+    "zh": "",
+    "en": "",
+    "ru": "",
+    "pt": "",
+    "ja": "",
+    "fr": "",
+    "es": "",
+    "de": "",
+    "it": ""
+  },
+  "version": "1.0.1",
+  "permissions": null,
+  "iconImage": null,
+  "name": "Colorful Clouds",
+  "localizedNames": {
+    "zh": "",
+    "en": "",
+    "ru": "",
+    "de": "",
+    "ja": "",
+    "it": "",
+    "pt": "",
+    "es": "",
+    "fr": ""
+  },
+  "icon": "cloud.sun.fill",
+  "intentInputTypes": [],
+  "runInApp": false,
+  "color": "systemBlue"
+}
